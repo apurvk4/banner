@@ -104,3 +104,13 @@ body{
   width: 90px;
   height: 90px;
 }
+.id{
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  transform: rotate(-32deg);
+  font-size: 25px;
+  top: 10%;
+  left: 3%;
+  color: white;
+}
